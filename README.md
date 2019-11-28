@@ -13,7 +13,7 @@ positional arguments:
 
 optional arguments:
   -h, --help  show this help message and exit
-  -w URL      remote http url to template
+  -w URL      remote url to template
 
 Example of use
 To inject remote http url:
