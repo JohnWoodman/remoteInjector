@@ -1,5 +1,7 @@
 # remoteinjector
-Injects link to remote word template into word document
+Injects link to remote word template into word document.
+
+[Related Blog Post](http://john-woodman.com/posts/VBA-Macro-Remote-Template-Injection/)
 ## Requirements
 - Python2.7
 ## Usage
