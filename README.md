@@ -3,7 +3,7 @@ Injects link to remote word template into word document.
 
 [Related Blog Post](https://john-woodman.com/research/vba-macro-remote-template-injection/)
 ## Requirements
-- Python2.7
+- Python3.x or Python2.x
 ## Usage
 ```
 usage: remoteinjector.py [-h] [-w URL] F
